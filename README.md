@@ -1,17 +1,9 @@
-# Markdown syntax guide
-
 ## Hi. My name is Cleberson Wengrzynek  ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleber_weng)
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebersonweng)](https://github.com/Clebersonweng/github-readme-stats)
-
-
-
 
 ## Technologies of my daily bread 
 
@@ -23,25 +15,14 @@
 [![Linkedin](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 [![Linkedin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebersonweng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
 ## Lists
 https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clebersonweng)](https://github.com/Clebersonweng/github-readme-stats)
 ### Unordered
 
-## My contributions
-
+## My contributions for the last company - Erp System
 
 ![Abaco contributions.](https://res.cloudinary.com/cle-wengrzynek/image/upload/v1686150424/github/abaco-contributions.jpg)
-
+## My contributions for the last company - Contable System
+![Abaco contributions.](https://res.cloudinary.com/cle-wengrzynek/image/upload/v1686151845/github/contable-system.jpg)
 >
