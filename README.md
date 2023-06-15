@@ -15,6 +15,9 @@
 [![Linkedin](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 [![Linkedin](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebersonweng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My contributions for the last company - Erp System
 ![Abaco contributions.](https://res.cloudinary.com/cle-wengrzynek/image/upload/v1686160317/github/erp-system-abaco.jpg)
 
