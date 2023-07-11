@@ -19,9 +19,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clebersonweng&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My contributions for the last company - Erp System
-![Abaco contributions.](https://res.cloudinary.com/cle-wengrzynek/image/upload/v1686160317/github/erp-system-abaco.jpg)
+https://res.cloudinary.com/djcrtyyvf/image/upload/v1689076054/abaco/yxqozs8jbjqjkwfgivgc.jpg
+![Abaco contributions.](https://res.cloudinary.com/djcrtyyvf/image/upload/v1689076054/abaco/jiro1hzcegct2wba2btk.jpg)
 
 ## My contributions for the last company - Contable System
-![Abaco contributions.](https://res.cloudinary.com/cle-wengrzynek/image/upload/v1686160317/github/contable-system-abaco.jpg)
+![Abaco contributions.](https://res.cloudinary.com/djcrtyyvf/image/upload/v1689076054/abaco/yxqozs8jbjqjkwfgivgc.jpg)
 
 >
