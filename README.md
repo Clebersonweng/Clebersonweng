@@ -1,4 +1,5 @@
 ## Hi. My name is Cleberson Wengrzynek  ✌️
+### I'm a Web developer with 8 years experience in diferents kinds of projects.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberson-wengrzynek)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleber_weng)
@@ -29,15 +30,19 @@
 
 ## My contributions for Arqmedes - Investment Project
 ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743073957/Captura_de_Tela_2025-03-27_a%CC%80s_07.58.05_ia7rbc.png)
-### Investment Project - Index screen used for investment portfolios
+## Investment Project - Index screen used for investment portfolios
 ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743074444/tela_de_indices_vzgw3l.png)
-### Investment Project - Portfolio
+## Investment Project - Portfolio
 ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743075026/Captura_de_Tela_2025-03-27_a%CC%80s_08.24.10_ucfx10.png)
 ## Risk Analysis Project -  Risk
  ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743078986/tela_de_riscos_hlwjpr.png)
  ### Risk Analysis Project - Control
  ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743079198/tela_controle_riscos_oygcqh.png)
-### Risk Analysis Project - Heat Map for integration with external Application
+## Risk Analysis Project - Heat Map for integration with external Application
 ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743079648/Captura_de_Tela_2025-03-27_a%CC%80s_09.46.28_zzfryn.png)
 ![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743079648/Captura_de_Tela_2025-03-27_a%CC%80s_09.47.00_knyya6.png)
+
+## Erp Project - Revenue Discrepancy Detection and Reconciliation
+![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743260923/tela_arrecadacao_1_drill_c3q5nq.png)
+![Arqmedes contributions.](https://res.cloudinary.com/dflwfl1j3/image/upload/v1743258829/Captura_de_Tela_2025-03-29_a%CC%80s_11.32.12_fpvx76.png)
 >
